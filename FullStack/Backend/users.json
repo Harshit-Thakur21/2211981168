@@ -1,0 +1,110 @@
+[
+    {
+        "id" : 1,
+        "name" : "John Doe",
+        "postCount" : 5,
+        "posts" : [
+            {
+                "post_id" : 1,
+                "number_of_comments" : 10,
+                "date": [
+                    {
+                        "date": 1,
+                        "month": 1,
+                        "year": 2025
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "name" : "John Smith",
+        "postCount" : 10,
+        "posts" : [
+            {
+                "post_id" : 2,
+                "number_of_comments" : 20,
+                "date": [
+                    {
+                        "date": 2,
+                        "month": 1,
+                        "year": 2025
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "name" : "Harry",
+        "postCount" : 5,
+        "posts" : [
+            {
+                "post_id" : 3,
+                "number_of_comments" : 15,
+                "date": [
+                    {
+                        "date": 3,
+                        "month": 1,
+                        "year": 2025
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 4,
+        "name" : "Eric",
+        "postCount" : 12,
+        "posts" : [
+            {
+                "post_id" : 4,
+                "number_of_comments" : 20,
+                "date": [
+                    {
+                        "date": 4,
+                        "month": 1,
+                        "year": 2025
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 5,
+        "name" : "James",
+        "postCount" : 25,
+        "posts" : [
+            {
+                "post_id" : 5,
+                "number_of_comments" : 30,
+                "date": [
+                    {
+                        "date": 5,
+                        "month": 1,
+                        "year": 2025
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 6,
+        "name" : "Michael",
+        "postCount" : 27,
+        "posts" : [
+            {
+                "post_id" : 6,
+                "number_of_comments" : 25,
+                "date": [
+                    {
+                        "date": 6,
+                        "month": 1,
+                        "year": 2025
+                    }
+                ]
+            }
+        ]
+    }
+]
